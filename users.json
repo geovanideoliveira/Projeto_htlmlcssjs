@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "username": "Geovani",
+      "password": "1234"
+    },
+    {
+      "username": "usuario2",
+      "password": "senha2"
+    }
+    // Adicione mais usuários conforme necessário
+  ]
+}
